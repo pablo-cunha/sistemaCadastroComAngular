@@ -1,0 +1,14 @@
+form {
+    display: flex;
+    flex-direction:column;
+
+    margin-top: 20px;
+}
+
+#save-button {
+    margin-right: 4px;
+}
+
+button {
+    margin-top: 20px;
+}
